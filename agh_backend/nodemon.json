@@ -1,6 +1,6 @@
 {
   "env": {
-    "DB_USER": "",
+    "DB_USER": "a",
     "DB_PASSWORD": "",
     "DB_NAME": "",
     "GOOGLE_API_KEY": "",
